@@ -13,5 +13,7 @@ My favorite website is [google](https://www.google.com/)
 I like the [about page](about.html).
 
 # Here's a cow
+This cow lives in Germany.
 
 <img src="images/rila.jpg" style="width:75%">
+
