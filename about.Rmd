@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-### About this site
+Siling Li  
+Address: 100 Haven Avenue Apt 14G, New York, NY, 10032  
+Tel:+1 6463749717, E-mail: sl4283@cumc.columbia.edu  
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
-
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+**EDUCATION_________________________________________________**  
+**BS, China Pharmaceutical University, China**　　　　　　　　　　　　　09/2013-06/2017  
+Coursework: Pharmaceutical Chemistry, Biochemistry, Molecular Biology, Pharmacology,  
+Pharmaceutics, Chemistry, Biochemistry, Pharmacology  
+**University of Wisconsin-Madison, United States**　　　　　　　　　　　09/2016-12/2016  
+Visiting International Student Program  
+Coursework: Animal Biology, Bioinformatics, Introduction to Computation, Introduction to  
+Programming Language  
+  
+**RESEARCH EXPERIENCE___________________________________________________**  
+**Shenzhen BGI Co., Ltd. & Shenzhen BGI Research Institute, China**　　　07/2016-08/2016  
+•	Mastered the Perl Programming Language and R Language for bioinformatics analysis  
+•	Modeled and analyzed sequence data with advanced algorithms  
+•	Participated in providing the BGI’s Clinical services  
+•	Developed communication skills and adapted to the work in a fast-paced environment  
+  
+**ACTIVITIES___________________________________________________________________**  
+**Pharmacist Assistant**  
+Shenzhen Jian’an Hospital, China　　　　　　　　　　　　　　　　　　　　07/2015-08/2015  
+•	Updated and troubleshot pharmacy databases  
+•	Assisted pharmacists to compound and dispense medications following prescriptions  
+•	Mastered effective communication and interpersonal skills  
+**Workshop Operator**  
+Guodan Pharmaceutical Industry, China　　　　　　　　　　　　　　　　　　07/2014-08/2014  
+•	Learned relevant knowledge in pharmaceutical preparations  
+•	Mastered the basic process of pharmaceutic production and the quality control points  
+of various preparations  
+•	Familiar with relevant laws and regulations relevant to pharmaceutical affairs  
+  
+**CORE SKILLS________________________________________________________________**  
+Software: Skilled at Python, Perl, R programming language  
+Languages: Mandarin (native), English (fluent)  
