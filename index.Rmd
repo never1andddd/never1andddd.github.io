@@ -4,7 +4,7 @@ title: "Personal web page"
 
 Hi, this is a personal web page of Siling Li.
 
-You can find links for my GitHub account, my email, and my link-in here.
+You can find links for my GitHub account, my email, and my linked-in here.
 
 # embed links
 
