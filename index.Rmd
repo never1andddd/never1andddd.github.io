@@ -1,19 +1,19 @@
 ---
-title: "Holy cow!"
+title: "Personal web page"
 ---
 
-### I have a webpage!
+Hi, this is a personal web page of Siling Li.
 
-And I can put all kinds of stuff on it!
+You can find links for my GitHub account, my email, and my link-in here.
 
 # embed links
 
-My favorite website is [google](https://www.google.com/)
+Here is a page giving my academic and professional experience. [Resume](about.html)
 
-I like the [about page](about.html).
+Here is the website of my favorite blogger. [Local milk](http://localmilkblog.com/)
 
-# Here's a cow
-This cow lives in Germany.
+# Here's a picture
+This is a image of my favorite cartoon character, rilakkuma.
 
-<img src="images/rila.jpg" style="width:75%">
+<img src="images/rila.jpeg" style="width:75%">
 
